@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
 </p>
 
 ---
