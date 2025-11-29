@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"/>
    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>
 
 ---
